@@ -44,5 +44,7 @@ $ rails server
 を参考にしてください。
 
 テスト用アカウント
+```
 email: foobar@example.com
 pass: foobar
+```
